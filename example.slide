@@ -1,0 +1,21 @@
+An Example for Go Slide
+
+Shanghui Yang
+
+* Topic
+
+- topic 1
+- topic 2
+
+* Hello, World!
+
+.play codes/hello_world.go
+
+* interface
+
+.image images/interface.png _ 815
+
+
+* References
+
+.link https://github.com/shanghuiyang
